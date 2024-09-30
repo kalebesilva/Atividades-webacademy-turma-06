@@ -25,6 +25,7 @@ public class Exercicio {
     System.out.println(c/d);
     //Multiplicação
     System.out.println(c*d);
+    
    }
     
 }
