@@ -1,11 +1,17 @@
 import java.util.Scanner;
-
+/**
+ * Aluno: Gabriel Daniel da Silva
+ */
 public class Ex02 {
+/**
+ * 
+ * @param args
+ */
     public static void main(String[] args) {
         /**
          * Abre o scanner:
          */
-        Scanner scanner = new Scanner(System.in); 
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Digite a 1ª Variável: ");
         /**
          * Leitura da 1ª variável
