@@ -4,7 +4,7 @@ import java.util.Scanner;
  */
 public class Ex02 {
 /**
- * 
+ *
  * @param args
  */
     public static void main(String[] args) {
@@ -22,6 +22,10 @@ public class Ex02 {
          * Leitura da 2ª Variável
          */
         Double valor2 = scanner.nextDouble();
+        /**
+         * Fechamento do Scanner
+         */
+        scanner.close();
         /**
          * Soma de Variáevis
          */
